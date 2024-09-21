@@ -27,7 +27,7 @@ const home = () => {
                     </div>
                     <div className="DescCard__ xsss:text-justify xss:text-xs grid grid-cols-1">
                         <div className="DescCard__ DHxss grid grid-cols-1">
-                            <h2 className="xss:text-lg xss:m-2 2xl:m-1 font-sans font-bold">QA Manual </h2>
+                            <h2 className="xss:text-lg xss:m-2 2xl:m-1 font-sans font-bold">Senior QA Manual </h2>
                             <p className="xss:px-10 xl:px-20 text-lg font-sans">This is my web Portfolio.
                                     I have 2+ Years of Experience in QA Manual for 2+ years now. I Started My Career From QA Manual PT Palu Bisnis Servis with Project Tokopedia as QA manual WEB Platform.
                                     I am So Glad with my work, because my project is Very Useful for others.</p>
