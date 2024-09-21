@@ -20,7 +20,7 @@ const Index = () => {
                         <h1  className="TNxss font-mono font-bold tracking-wide ">Hello, I'am 
                             <br></br><span className="text-pink-800"> Rizal Setio Aji</span>
                         </h1>
-                        <h2 className="xss:text-lg xss:m-2 2xl:m-1 font-sans font-bold">QA Manual </h2>
+                        <h2 className="xss:text-lg xss:m-2 2xl:m-1 font-sans font-bold">Senior QA Manual</h2>
                         <div className="DescCard__ xsss:text-justify xss:text-xs grid grid-cols-1">
                             <div className="DescCard__ DHxss grid grid-cols-1">
                                 <p className="xss:px-10 xl:px-20 text-lg font-sans">This is my web Portfolio.
